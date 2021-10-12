@@ -17,7 +17,14 @@ Suces moi Leo ;)
 JB Mexico g
 nafskjzdhvjnzxcmvbnksdbczxmn czxz
 jte la met dans ton pti boul
+<<<<<<< HEAD
 shdjkvmx
 
 
 JB Test Gab
+=======
+
+jsdbhsdbfhedbf
+>>>>>>> dc6e4783df01ed557783b918334a17e6ddb3c009 
+
+foot
