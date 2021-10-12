@@ -12,8 +12,6 @@ knitr::opts_chunk$set(echo = TRUE)
 Hello Boys, hope this is working
 njhnjnj
 Hope it works 
-<<<<<<< HEAD
 JB LA PUPUT
-=======
 Suces moi Leo ;)
->>>>>>> c29e3dc96f00bed59191d2e7d54d884431ada184
+
