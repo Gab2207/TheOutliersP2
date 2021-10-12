@@ -20,7 +20,6 @@ jte la met dans ton pti boul
 <<<<<<< HEAD
 shdjkvmx
 
-
 JB Test Gab
 =======
 
@@ -28,3 +27,5 @@ jsdbhsdbfhedbf
 >>>>>>> dc6e4783df01ed557783b918334a17e6ddb3c009 
 
 foot
+
+sefgzshhshgd je travaille dessus pendant que jb upload 
