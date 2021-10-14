@@ -1,6 +1,6 @@
 ---
-title: "Test File For Session 13"
-author: "Gabriel Calandri"
+title: "heartFailure_Team5"
+author: "Gabriel Calandri Leo Gotheil Enrique Albarran JB Defour"
 date: "10/12/2021"
 output: html_document
 ---
@@ -9,31 +9,19 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-Hello Boys, hope this is working
-njhnjnj
-Hope it works 
-JB LA PUPUT
-Suces moi Leo ;)
-JB Mexico g
-nafskjzdhvjnzxcmvbnksdbczxmn czxz
-jte la met dans ton pti boul
-<<<<<<< HEAD
-shdjkvmx
+```{r}
+heart <- read.csv('heart.csv')
+summary(heart)
+str(heart)
+```
+```{r}
+heart$Sex <- as.factor(heart$Sex)
+heart$ChestPainType <- as.factor(heart$ChestPainType)
+heart$RestingECG <- as.factor(heart$RestingECG)
+heart$ExerciseAngina <- as.factor(heart$ExerciseAngina)
+heart$ST_Slope <- as.factor(heart$ST_Slope)
 
-JB Test Gab
-=======
-
-jsdbhsdbfhedbf
->>>>>>> dc6e4783df01ed557783b918334a17e6ddb3c009 
-
-foot
-
-<<<<<<< HEAD
-sefgzshhshgd je travaille dessus pendant que jb upload 
-=======
+```
 
 
-JB dye foot winner fifa
->>>>>>> 230ac632e9fba154d9f37b61a37a1082ff1fa704
 
-yeyeye
